@@ -1,6 +1,6 @@
 # Youth Fellowship Needs Assessment Analysis (2024)
 
-A data analysis project examining survey results from a 652-respondent needs assessment conducted for the Youth Fellowship of Cherubim and Seraphim Movement Church, Surulere Headquarters (Lagos, Nigeria) \u2014 a congregation of approximately 3,500 members.
+A data analysis project examining survey results from a 652-respondent needs assessment conducted for the Youth Fellowship of Cherubim and Seraphim Movement Church, Surulere Headquarters (Lagos, Nigeria) — a congregation of approximately 3,500 members.
 
 ## Project Overview
 
@@ -18,23 +18,23 @@ This repository reconstructs that analysis in Python, demonstrating an end-to-en
 ## Key Findings
 
 - All 8 surveyed Sunday service components scored above the 3.0 benchmark, with **Thanksgiving (Joyful Noise)** rated highest (mean 4.66) and **Male & Female Forum** rated lowest, though still positive (mean 3.81)
-- **Spiritual guidance** (55.5%) and **professional training/networking** (51.8%) are the two most-requested areas for church intervention \u2014 ahead of academics and health
+- **Spiritual guidance** (55.5%) and **professional training/networking** (51.8%) are the two most-requested areas for church intervention — ahead of academics and health
 - Female respondents made up 62.4% of the sample, versus 34.5% male
-- A year-over-year comparison shows the Thanksgiving service's impact held steady and slightly improved between 2022 and 2024 (70.0% \u2192 72.4% strongly affirming impact)
+- A year-over-year comparison shows the Thanksgiving service's impact held steady and slightly improved between 2022 and 2024 (70.0% to 72.4% strongly affirming impact)
 
 ## Repository Structure
 
 ```
 yfc-needs-assessment/
-\u251c\u2500\u2500 README.md
-\u251c\u2500\u2500 YFC_Needs_Assessment_Analysis.ipynb   # Full analysis notebook
-\u2514\u2500\u2500 outputs/                               # Generated chart images
-    \u251c\u2500\u2500 gender_distribution.png
-    \u251c\u2500\u2500 employment_status.png
-    \u251c\u2500\u2500 service_impact.png
-    \u251c\u2500\u2500 intervention_needs.png
-    \u251c\u2500\u2500 band_participation.png
-    \u2514\u2500\u2500 year_over_year.png
+├── README.md
+├── YFC_Needs_Assessment_Analysis.ipynb   # Full analysis notebook
+└── outputs/                               # Generated chart images
+    ├── gender_distribution.png
+    ├── employment_status.png
+    ├── service_impact.png
+    ├── intervention_needs.png
+    ├── band_participation.png
+    └── year_over_year.png
 ```
 
 ## Tech Stack
@@ -57,5 +57,5 @@ This project reconstructs the analysis from the original 2024 report's aggregate
 
 ## Author
 
-Abidemi Adeyeye \u2014 M.S. Applied Mathematics, Georgia Southern University
-[LinkedIn] \u00b7 [GitHub]
+Abidemi Adeyeye — M.S. Applied Mathematics, Georgia Southern University
+
